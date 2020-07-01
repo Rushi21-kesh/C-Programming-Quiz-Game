@@ -10,7 +10,7 @@ To create this game I used concepts of case statements, looping, functions and o
                    
        
        
-When you start the game you neend to enter your name and then show a questions if you answer correctly then it gives wining price and if you gives all answers correct then you shows a page which shows your a millinear also if you give wrong answer then it tell you your answer is wrong and your final wining amount.
+When you start the game you need to enter your name and then show a questions if you answer correctly then it gives wining price and if you gives all answers correct then you shows a page which shows you’re a millionaire also if you give wrong answer then it tell you your answer is wrong and your final wining amount.
 
 ## Wining amount according to questions:                                                      
       - Question 1 = 1000 /-                                                  
