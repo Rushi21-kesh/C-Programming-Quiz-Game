@@ -24,3 +24,23 @@ When you start the game you need to enter your name and then show a questions if
       - Question 8 = 400000 /-                                 
       - Question 9 = 700000 /-                               
       - Question 10 = 1000000 /-                                            
+
+## About page of quiz :
+
+![Screenshot (52)](https://user-images.githubusercontent.com/61430438/86323473-8b65bb00-bc5a-11ea-893f-984db19dcedd.png)
+
+## Help page of quiz :
+
+![Screenshot (53)](https://user-images.githubusercontent.com/61430438/86323477-8bfe5180-bc5a-11ea-86c7-9989aeb53606.png)
+
+## Start quiz :
+
+![Screenshot (54)](https://user-images.githubusercontent.com/61430438/86323478-8c96e800-bc5a-11ea-96c0-4f29612c9683.png)
+
+## congratulations page of quiz :
+
+![Screenshot (55)](https://user-images.githubusercontent.com/61430438/86323480-8d2f7e80-bc5a-11ea-9793-b72d50574c58.png)
+
+## Thank You ! page of quiz :
+
+![Screenshot (56)](https://user-images.githubusercontent.com/61430438/86323467-89036100-bc5a-11ea-81ef-98da8e61c862.png)
