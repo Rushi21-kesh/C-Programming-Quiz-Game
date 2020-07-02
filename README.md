@@ -8,7 +8,7 @@ To create this game I used concepts of case statements, looping, functions and o
       - need help then press "H" key                        
       - to quit the the game press "Q" key 
                    
-![Screenshot (51)](https://user-images.githubusercontent.com/61430438/86321935-9834df80-bc57-11ea-9bd1-57c5d539a557.png)
+![WELCOME PAGE](https://user-images.githubusercontent.com/61430438/86321935-9834df80-bc57-11ea-9bd1-57c5d539a557.png)
 
 
 When you start the game you need to enter your name and then show a questions if you answer correctly then it gives wining price and if you gives all answers correct then you shows a page which shows you’re a millionaire also if you give wrong answer then it tell you your answer is wrong and your final wining amount.
@@ -27,15 +27,15 @@ When you start the game you need to enter your name and then show a questions if
 
 ## About page of quiz :
 
-![Screenshot (52)](https://user-images.githubusercontent.com/61430438/86323473-8b65bb00-bc5a-11ea-893f-984db19dcedd.png)
+![ABOUT](https://user-images.githubusercontent.com/61430438/86323473-8b65bb00-bc5a-11ea-893f-984db19dcedd.png)
 
 ## Help page of quiz :
 
-![Screenshot (53)](https://user-images.githubusercontent.com/61430438/86323477-8bfe5180-bc5a-11ea-86c7-9989aeb53606.png)
+![HELP](https://user-images.githubusercontent.com/61430438/86323477-8bfe5180-bc5a-11ea-86c7-9989aeb53606.png)
 
 ## Start quiz :
 
-![Screenshot (54)](https://user-images.githubusercontent.com/61430438/86323478-8c96e800-bc5a-11ea-96c0-4f29612c9683.png)
+![START](https://user-images.githubusercontent.com/61430438/86323478-8c96e800-bc5a-11ea-96c0-4f29612c9683.png)
 
 ## congratulations page of quiz :
 
@@ -43,4 +43,4 @@ When you start the game you need to enter your name and then show a questions if
 
 ## Thank You ! page of quiz :
 
-![Screenshot (56)](https://user-images.githubusercontent.com/61430438/86323467-89036100-bc5a-11ea-81ef-98da8e61c862.png)
+![THANK YOU](https://user-images.githubusercontent.com/61430438/86323467-89036100-bc5a-11ea-81ef-98da8e61c862.png)
