@@ -358,7 +358,7 @@ int main()
     }
     else
     {
-        printf("\n\n\n\t\t\* * * * Please enter valid character ,Thank you ! * * * * \n\n\n");
+        printf("\n\n\n\t\t\t* * * * Please enter valid character ,Thank you ! * * * * \n\n\n");
         getch();
         goto home;
     }
