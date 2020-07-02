@@ -39,7 +39,7 @@ When you start the game you need to enter your name and then show a questions if
 
 ## congratulations page of quiz :
 
-![Screenshot (55)](https://user-images.githubusercontent.com/61430438/86323480-8d2f7e80-bc5a-11ea-9793-b72d50574c58.png)
+![Congratulations](https://user-images.githubusercontent.com/61430438/86323480-8d2f7e80-bc5a-11ea-9793-b72d50574c58.png)
 
 ## Thank You ! page of quiz :
 
