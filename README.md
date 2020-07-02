@@ -8,8 +8,9 @@ To create this game I used concepts of case statements, looping, functions and o
       - need help then press "H" key                        
       - to quit the the game press "Q" key 
                    
-       
-       
+![Screenshot (51)](https://user-images.githubusercontent.com/61430438/86321935-9834df80-bc57-11ea-9bd1-57c5d539a557.png)
+
+
 When you start the game you need to enter your name and then show a questions if you answer correctly then it gives wining price and if you gives all answers correct then you shows a page which shows you’re a millionaire also if you give wrong answer then it tell you your answer is wrong and your final wining amount.
 
 ## Wining amount according to questions:                                                      
